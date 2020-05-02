@@ -1,6 +1,6 @@
 <template>
     <div>
-			
+		
     </div>
 </template>
 
@@ -10,9 +10,11 @@ export default {
       return {
        
       };
-		},
-		 methods: {
-      
-		}
+	},
+    methods: {
+       handleLogin() {
+    
+       }
+	}
 }
 </script>

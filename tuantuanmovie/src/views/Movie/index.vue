@@ -1,18 +1,18 @@
 <template>
-    <div>
-			
-    </div>
+	<div class="movie-page">
+		
+	</div>
 </template>
 
 <script>
 export default {
-    data() {
-      return {
-       
-      };
-		},
-		 methods: {
-      
-		}
+	data() {
+		return {
+			
+		};
+	},
+		methods: {
+		
+	}
 }
 </script>

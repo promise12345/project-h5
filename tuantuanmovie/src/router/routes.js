@@ -13,8 +13,11 @@ const routes = [
   },
   {
     path: '/mine',
-    name: 'mine',
     component: Mine
+  },
+  {
+    path: '*',
+    redirect: '/mine'
   }
 ]
 
